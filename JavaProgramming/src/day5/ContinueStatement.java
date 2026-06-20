@@ -11,6 +11,18 @@ public class ContinueStatement {
 				continue;
 			}
 			System.out.println(i);
+			
+			
+			//basbfajsjna
 		}
 	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }
